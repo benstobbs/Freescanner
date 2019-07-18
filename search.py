@@ -59,11 +59,3 @@ while search != "":
 
         for i in range(0, len(locs)):
             print(locs[i] + " - " + str(ns[i]))
-
-        print("")
-
-        for loc in locs:
-            print(loc+" UK")
-        print("")
-        for n in ns:
-            print(str(n))
